@@ -22,8 +22,6 @@ O objetivo deste projeto foi transformar um design de alta fidelidade do Figma e
   * **Mobile First:** Base sólida para diferentes dispositivos.  
   * **Variáveis CSS (:root):** Facilita a manutenção de cores e fontes.  
   * **Flexbox & Grid:** Layouts modernos, precisos e flexíveis.  
-  * **Unidades Relativas e clamp():** Tipografia e espaçamentos fluidos.  
-
 ---
 
 ### 🛠️ Estrutura de Arquivos
