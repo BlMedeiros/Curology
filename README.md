@@ -1,4 +1,4 @@
-# 🧴 SkinCare Landing Page - Projeto Responsivo
+# 🧴 Curology
 
 👤 **Desenvolvido por:** Bruno Luís Medeiros
 
