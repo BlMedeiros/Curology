@@ -10,7 +10,7 @@ O objetivo deste projeto foi transformar um design de alta fidelidade do Figma e
 ---
 
 ### 🔗 Links Relevantes
-* **Design Original (Figma):** [https://www.figma.com](https://www.figma.com)  ](https://www.figma.com/design/t8ebf6xiaQk81GGdZgFP0m/MI-78?node-id=0-1&t=9ZPQfu0S79RRJ3nK-1)
+* **Design Original (Figma):** (https://www.figma.com/design/t8ebf6xiaQk81GGdZgFP0m/MI-78?node-id=0-1&t=9ZPQfu0S79RRJ3nK-1)
 
 ---
 
